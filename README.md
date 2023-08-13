@@ -7,6 +7,8 @@ I was interested in how automation, hence I went to test how this works after le
 After I've learnt on how to use Selenium to automate stuff, I went on to try on a website called SBST 50th Anniversary. It was a joy to be able to test on a website after learning the basic automation skills.
 
 #Things I've learnt 
+
+Eclipse Java IDE -> Usage for Project Creation and Basic Fundamentals.
 Automation, searching elements via xpath/class/css.selector/id/others, and also usage of various classes.
 
 #Others
