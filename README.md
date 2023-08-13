@@ -14,6 +14,7 @@ Automation, searching elements via xpath/class/css.selector/id/others, and also 
 1, Automatic dropdown selection
 ![image](https://github.com/Fastumkj/selenium-beginner/assets/95695039/8f070cc1-042f-454c-8a86-10c4722c6e50)
 
+
 2. Selection of buttons through usage of code
 ![image](https://github.com/Fastumkj/selenium-beginner/assets/95695039/02d30084-8a03-4a41-9014-05a6527c2ddf)
 
