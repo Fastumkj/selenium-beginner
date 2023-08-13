@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Users\kahjy\Desktop\Trinax\selenium-beginner\.metadata\.plugins\org.eclipse.jdt.core
+1252642035.index
